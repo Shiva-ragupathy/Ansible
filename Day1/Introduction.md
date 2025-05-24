@@ -55,11 +55,11 @@ While these tools helped automate infrastructure, they came with drawbacks:
 A company might run: CentOS servers requiring yum Debian servers using apt Without a unified tool, package installations become inconsistent. Ansible solves this by abstracting platform-specific commands, providing a single source of truth for configuration.
 
 ## 🧪 Tools that Evolved Alongside Ansible:
-**Puppet** - Powerful but Ruby-based
-**Chef** – Great for developers, but has a steeper curve
-**CFEngine** – One of the oldest, but complex
+              **Puppet** - Powerful but Ruby-based
+              **Chef** – Great for developers, but has a steeper curve
+              **CFEngine** – One of the oldest, but complex
 
-Among these, Ansible stands out for being lightweight, intuitive, and easy to integrate with modern DevOps workflows.
+Among these, **Ansible** stands out for being lightweight, intuitive, and easy to integrate with modern DevOps workflows.
 
 
 
